@@ -134,7 +134,7 @@
             <root type="simple" url="file://$USER_HOME$/anaconda/envs/bci-env/lib/python2.7/lib-dynload" />
             <root type="simple" url="file://$USER_HOME$/anaconda/envs/bci-env/lib/python2.7/site-packages" />
             <root type="simple" url="jar://$USER_HOME$/anaconda/envs/bci-env/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-763188895" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/1390321398" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
