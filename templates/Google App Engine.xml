@@ -1,0 +1,22 @@
+<templateSet group="Google App Engine">
+  <template name="endpointsg" value="@endpoints.method($REQUEST_MESSAGE$, $RESPONSE_MESSAGE$,&#10;                  path='$PATH$', http_method='GET', name='$ENDPOINT_NAME$')&#10;def $METHOD_NAME$(self, request):&#10;    &quot;&quot;&quot;$METHOD_NAME$ documentation&quot;&quot;&quot;&#10;    pass&#10;    $END$" description="Google Cloud Endpoint with 'Get' method" toReformat="false" toShortenFQNames="true">
+    <variable name="REQUEST_MESSAGE" expression="" defaultValue="message_types.VoidMessage" alwaysStopAt="true" />
+    <variable name="RESPONSE_MESSAGE" expression="" defaultValue="message_types.VoidMessage" alwaysStopAt="true" />
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ENDPOINT_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="endpointsp" value="@endpoints.method($REQUEST_MESSAGE$, $RESPONSE_MESSAGE$,&#10;                  path='$PATH$', http_method='POST', name='$ENDPOINT_NAME$')&#10;def $METHOD_NAME$(self, request):&#10;    &quot;&quot;&quot;$METHOD_NAME$ documentation&quot;&quot;&quot;&#10;    pass&#10;    $END$" description="Google Cloud Endpoint with 'POST' method" toReformat="false" toShortenFQNames="true">
+    <variable name="REQUEST_MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RESPONSE_MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ENDPOINT_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

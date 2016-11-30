@@ -1,0 +1,8 @@
+<templateSet group="Django">
+  <template name="trans" value="{% trans &quot;$STRING$&quot; %}" description="{% trans &quot;&quot; %}" toReformat="false" toShortenFQNames="true">
+    <variable name="STRING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Django" value="true" />
+    </context>
+  </template>
+</templateSet>
