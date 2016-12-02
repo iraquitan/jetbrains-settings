@@ -12,7 +12,7 @@
         <entry key="alpaca_static" value="1.5.17" />
         <entry key="anaconda" value="4.2.0" />
         <entry key="anaconda-build" value="1.15.0" />
-        <entry key="anaconda-clean" value="1.0.1" />
+        <entry key="anaconda-clean" value="1.0.2" />
         <entry key="anaconda-client" value="1.5.5" />
         <entry key="anaconda-navigator" value="1.3.2" />
         <entry key="anaconda-verify" value="1.2.1" />
@@ -20,7 +20,7 @@
         <entry key="appdirs" value="1.4.0" />
         <entry key="appnope" value="0.1.0" />
         <entry key="appscript" value="1.0.1" />
-        <entry key="apptools" value="4.3.0" />
+        <entry key="apptools" value="4.4.0" />
         <entry key="apr" value="1.5.2" />
         <entry key="argcomplete" value="1.0.0" />
         <entry key="argparse" value="1.3.0" />
@@ -57,7 +57,7 @@
         <entry key="bootstrap_static" value="3.3.1" />
         <entry key="boto" value="2.43.0" />
         <entry key="boto3" value="1.4.1" />
-        <entry key="botocore" value="1.4.74" />
+        <entry key="botocore" value="1.4.79" />
         <entry key="bottlechest" value="0.7.1" />
         <entry key="bottleneck" value="1.1.0" />
         <entry key="bsddb" value="1.0" />
@@ -102,7 +102,7 @@
         <entry key="constantly" value="15.1.0" />
         <entry key="constructor" value="1.5.0" />
         <entry key="contextlib2" value="0.5.4" />
-        <entry key="continuum-docs" value="2.0.2" />
+        <entry key="continuum-docs" value="2.0.4" />
         <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
         <entry key="coverage" value="4.2" />
@@ -217,7 +217,7 @@
         <entry key="into" value="0.2.2" />
         <entry key="iopro" value="1.7.2" />
         <entry key="ipaddress" value="1.0.17" />
-        <entry key="ipykernel" value="4.5.1" />
+        <entry key="ipykernel" value="4.5.2" />
         <entry key="ipyparallel" value="5.2.0" />
         <entry key="ipython" value="5.1.0" />
         <entry key="ipython-notebook" value="4.0.4" />
@@ -291,7 +291,7 @@
         <entry key="mathjax" value="2.2" />
         <entry key="matplotlib" value="1.5.3" />
         <entry key="matplotlib-tests" value="1.5.1" />
-        <entry key="mayavi" value="4.4.0" />
+        <entry key="mayavi" value="4.5.0" />
         <entry key="mccabe" value="0.3.1" />
         <entry key="mdp" value="3.5" />
         <entry key="meld3" value="1.0.2" />
@@ -326,7 +326,7 @@
         <entry key="nb_conda_kernels" value="2.0.0" />
         <entry key="nb_config_manager" value="0.1.3" />
         <entry key="nbconvert" value="4.2.0" />
-        <entry key="nbformat" value="4.1.0" />
+        <entry key="nbformat" value="4.2.0" />
         <entry key="nbpresent" value="3.0.2" />
         <entry key="nbsetuptools" value="0.1.5" />
         <entry key="ncurses" value="5.9" />
@@ -419,7 +419,7 @@
         <entry key="pydispatcher" value="2.0.5" />
         <entry key="pydot" value="1.0.28" />
         <entry key="pydot-ng" value="1.0.0.15" />
-        <entry key="pyface" value="4.5.2" />
+        <entry key="pyface" value="5.1.0" />
         <entry key="pyflakes" value="1.3.0" />
         <entry key="pygments" value="2.1.3" />
         <entry key="pykerberos" value="1.1.10" />
@@ -484,7 +484,7 @@
         <entry key="reportlab" value="3.3.0" />
         <entry key="repoze.lru" value="0.6" />
         <entry key="requests" value="2.12.1" />
-        <entry key="requests-file" value="1.4" />
+        <entry key="requests-file" value="1.4.1" />
         <entry key="requests-kerberos" value="0.8.0" />
         <entry key="responses" value="0.5.1" />
         <entry key="rope" value="0.9.4" />
@@ -557,8 +557,8 @@
         <entry key="tornado" value="4.4.2" />
         <entry key="toro" value="1.0.1" />
         <entry key="traitlets" value="4.3.1" />
-        <entry key="traits" value="4.5.0" />
-        <entry key="traitsui" value="4.5.1" />
+        <entry key="traits" value="4.6.0" />
+        <entry key="traitsui" value="5.1.0" />
         <entry key="transaction" value="1.6.1" />
         <entry key="translationstring" value="1.3" />
         <entry key="trollius" value="2.1" />
@@ -757,6 +757,7 @@
             <list>
               <option value="1.0.1" />
               <option value="1.0.0" />
+              <option value="1.0.2" />
             </list>
           </value>
         </entry>
@@ -838,6 +839,7 @@
               <option value="4.2.0" />
               <option value="4.3.0" />
               <option value="4.2.1" />
+              <option value="4.4.0" />
             </list>
           </value>
         </entry>
@@ -1319,6 +1321,7 @@
               <option value="1.4.28" />
               <option value="1.4.17" />
               <option value="1.4.9" />
+              <option value="1.4.79" />
             </list>
           </value>
         </entry>
@@ -1949,6 +1952,8 @@
               <option value="2.0.1" />
               <option value="2.0.0" />
               <option value="2.0.2" />
+              <option value="2.0.4" />
+              <option value="2.0.3" />
             </list>
           </value>
         </entry>
@@ -3119,6 +3124,7 @@
               <option value="4.5.0" />
               <option value="4.5.1" />
               <option value="4.4.1" />
+              <option value="4.5.2" />
             </list>
           </value>
         </entry>
@@ -3864,6 +3870,7 @@
               <option value="4.3.0" />
               <option value="4.4.0" />
               <option value="4.3.1" />
+              <option value="4.5.0" />
             </list>
           </value>
         </entry>
@@ -4188,6 +4195,7 @@
               <option value="4.0.0" />
               <option value="4.0.1" />
               <option value="4.1.0" />
+              <option value="4.2.0" />
             </list>
           </value>
         </entry>
@@ -5222,6 +5230,7 @@
               <option value="4.4.0" />
               <option value="4.3.0" />
               <option value="4.5.2" />
+              <option value="5.1.0" />
             </list>
           </value>
         </entry>
@@ -5907,6 +5916,7 @@
           <value>
             <list>
               <option value="1.4" />
+              <option value="1.4.1" />
             </list>
           </value>
         </entry>
@@ -6737,6 +6747,7 @@
               <option value="4.3.0" />
               <option value="4.5.0" />
               <option value="4.4.0" />
+              <option value="4.6.0" />
             </list>
           </value>
         </entry>
@@ -6746,6 +6757,7 @@
               <option value="4.5.1" />
               <option value="4.3.0" />
               <option value="4.4.0" />
+              <option value="5.1.0" />
             </list>
           </value>
         </entry>
@@ -7281,6 +7293,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1480529527264" />
+    <option name="LAST_TIME_CHECKED" value="1480702676022" />
   </component>
 </application>
