@@ -131,7 +131,7 @@
         <entry key="dill" value="0.2.5" />
         <entry key="distribute" value="0.6.45" />
         <entry key="distributed" value="1.14.3" />
-        <entry key="django" value="1.10.3" />
+        <entry key="django" value="1.10.4" />
         <entry key="dnspython" value="1.14.0" />
         <entry key="docopt" value="0.6.2" />
         <entry key="docutils" value="0.12" />
@@ -286,7 +286,7 @@
         <entry key="m4" value="1.4.17" />
         <entry key="mako" value="1.0.6" />
         <entry key="markdown" value="2.6.7" />
-        <entry key="markdown2" value="2.3.1" />
+        <entry key="markdown2" value="2.3.2" />
         <entry key="markupsafe" value="0.23" />
         <entry key="mathjax" value="2.2" />
         <entry key="matplotlib" value="1.5.3" />
@@ -379,7 +379,7 @@
         <entry key="peace" value="1.0" />
         <entry key="pep381client" value="1.5" />
         <entry key="pep8" value="1.7.0" />
-        <entry key="persistent" value="4.2.1" />
+        <entry key="persistent" value="4.2.2" />
         <entry key="petl" value="1.1.0" />
         <entry key="petlx" value="1.0.3" />
         <entry key="pexpect" value="4.0.1" />
@@ -465,7 +465,7 @@
         <entry key="python-snappy" value="0.5" />
         <entry key="python-sybase" value="0.40" />
         <entry key="python.app" value="1.2" />
-        <entry key="pytz" value="2016.7" />
+        <entry key="pytz" value="2016.10" />
         <entry key="pywget" value="2.2" />
         <entry key="pyyaml" value="3.12" />
         <entry key="pyzmq" value="16.0.2" />
@@ -2318,6 +2318,7 @@
               <option value="1.10.2" />
               <option value="1.10.1" />
               <option value="1.10.3" />
+              <option value="1.10.4" />
             </list>
           </value>
         </entry>
@@ -3821,6 +3822,7 @@
             <list>
               <option value="2.3.0" />
               <option value="2.3.1" />
+              <option value="2.3.2" />
             </list>
           </value>
         </entry>
@@ -4823,6 +4825,7 @@
               <option value="4.1.0" />
               <option value="4.1.1" />
               <option value="4.2.1" />
+              <option value="4.2.2" />
             </list>
           </value>
         </entry>
@@ -5706,6 +5709,7 @@
               <option value="2016.3" />
               <option value="2016.4" />
               <option value="2016.7" />
+              <option value="2016.10" />
             </list>
           </value>
         </entry>
@@ -7297,6 +7301,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1480970282557" />
+    <option name="LAST_TIME_CHECKED" value="1481119445269" />
   </component>
 </application>
