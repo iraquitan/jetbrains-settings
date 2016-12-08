@@ -286,7 +286,7 @@
         <entry key="m4" value="1.4.17" />
         <entry key="mako" value="1.0.6" />
         <entry key="markdown" value="2.6.7" />
-        <entry key="markdown2" value="2.3.1" />
+        <entry key="markdown2" value="2.3.2" />
         <entry key="markupsafe" value="0.23" />
         <entry key="mathjax" value="2.2" />
         <entry key="matplotlib" value="1.5.3" />
@@ -3822,6 +3822,7 @@
             <list>
               <option value="2.3.0" />
               <option value="2.3.1" />
+              <option value="2.3.2" />
             </list>
           </value>
         </entry>
@@ -7300,6 +7301,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1481076033302" />
+    <option name="LAST_TIME_CHECKED" value="1481119445269" />
   </component>
 </application>
