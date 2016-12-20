@@ -5687,6 +5687,7 @@
               <option value="3.5.2" />
               <option value="2.7.12" />
               <option value="3.4.5" />
+              <option value="2.7.13" />
             </list>
           </value>
         </entry>
@@ -7386,6 +7387,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1482104644375" />
+    <option name="LAST_TIME_CHECKED" value="1482244789282" />
   </component>
 </application>
