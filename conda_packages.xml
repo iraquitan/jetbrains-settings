@@ -307,7 +307,7 @@
         <entry key="mercurial" value="3.9.2" />
         <entry key="meta" value="0.4.2.dev" />
         <entry key="mistune" value="0.7.3" />
-        <entry key="mkl" value="11.3.3" />
+        <entry key="mkl" value="2017.0.1" />
         <entry key="mkl-rt" value="11.1" />
         <entry key="mkl-service" value="1.1.2" />
         <entry key="mklfft" value="2.1" />
@@ -354,7 +354,7 @@
         <entry key="numbapro" value="0.23.1" />
         <entry key="numbapro_cudalib" value="0.2" />
         <entry key="numexpr" value="2.6.1" />
-        <entry key="numpy" value="1.11.2" />
+        <entry key="numpy" value="1.11.3" />
         <entry key="numpydoc" value="0.6.0" />
         <entry key="odo" value="0.5.0" />
         <entry key="openblas" value="0.2.19" />
@@ -4086,6 +4086,7 @@
               <option value="11.1" />
               <option value="11.3.1" />
               <option value="11.3.3" />
+              <option value="2017.0.1" />
             </list>
           </value>
         </entry>
@@ -4618,6 +4619,7 @@
               <option value="1.11.0" />
               <option value="1.11.2" />
               <option value="1.11.1" />
+              <option value="1.11.3" />
             </list>
           </value>
         </entry>
@@ -7486,6 +7488,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1484160127104" />
+    <option name="LAST_TIME_CHECKED" value="1484246749383" />
   </component>
 </application>
