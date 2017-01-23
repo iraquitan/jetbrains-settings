@@ -92,7 +92,7 @@
         <entry key="colander" value="1.2" />
         <entry key="colorama" value="0.3.7" />
         <entry key="colorcet" value="0.9.1" />
-        <entry key="conda" value="4.3.6" />
+        <entry key="conda" value="4.3.7" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="2.1.1" />
         <entry key="conda-env" value="2.6.0" />
@@ -1815,6 +1815,7 @@
               <option value="4.3.4" />
               <option value="4.3.5" />
               <option value="4.3.6" />
+              <option value="4.3.7" />
             </list>
           </value>
         </entry>
@@ -7563,6 +7564,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1484943528960" />
+    <option name="LAST_TIME_CHECKED" value="1485135636774" />
   </component>
 </application>
