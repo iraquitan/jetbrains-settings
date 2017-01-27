@@ -235,6 +235,7 @@
         <entry key="ipywidgets" value="5.2.2" />
         <entry key="isl" value="0.15" />
         <entry key="iso8601" value="0.1.11" />
+        <entry key="isort" value="4.2.5" />
         <entry key="itsdangerous" value="0.24" />
         <entry key="javabridge" value="1.0.14" />
         <entry key="jbig" value="2.1" />
@@ -282,7 +283,7 @@
         <entry key="libxml2" value="2.9.4" />
         <entry key="libxslt" value="1.1.29" />
         <entry key="lighttpd" value="1.4.39" />
-        <entry key="line_profiler" value="1.1" />
+        <entry key="line_profiler" value="2.0" />
         <entry key="llvm" value="3.3" />
         <entry key="llvmlite" value="0.15.0" />
         <entry key="llvmmath" value="0.1.2" />
@@ -366,7 +367,7 @@
         <entry key="openjdk" value="8.17.0.3" />
         <entry key="openmpi" value="1.6.3" />
         <entry key="openpyxl" value="2.4.1" />
-        <entry key="openssl" value="1.0.2j" />
+        <entry key="openssl" value="1.0.2k" />
         <entry key="orange" value="2.7.8" />
         <entry key="orange-app" value="2.7.8" />
         <entry key="orange3" value="3.3.6" />
@@ -555,6 +556,7 @@
         <entry key="ssl_match_hostname" value="3.4.0.2" />
         <entry key="statsmodels" value="0.6.1" />
         <entry key="stripe" value="1.37.0" />
+        <entry key="subprocess32" value="3.2.7" />
         <entry key="suds-jurko" value="0.6" />
         <entry key="supervisor" value="3.3.1" />
         <entry key="svn" value="1.9.4" />
@@ -3393,6 +3395,13 @@
             </list>
           </value>
         </entry>
+        <entry key="isort">
+          <value>
+            <list>
+              <option value="4.2.5" />
+            </list>
+          </value>
+        </entry>
         <entry key="itsdangerous">
           <value>
             <list>
@@ -3812,6 +3821,7 @@
             <list>
               <option value="1.0" />
               <option value="1.1" />
+              <option value="2.0" />
             </list>
           </value>
         </entry>
@@ -4768,6 +4778,7 @@
               <option value="1.0.2h" />
               <option value="1.0.2i" />
               <option value="1.0.2j" />
+              <option value="1.0.2k" />
             </list>
           </value>
         </entry>
@@ -6818,6 +6829,13 @@
             </list>
           </value>
         </entry>
+        <entry key="subprocess32">
+          <value>
+            <list>
+              <option value="3.2.7" />
+            </list>
+          </value>
+        </entry>
         <entry key="suds-jurko">
           <value>
             <list>
@@ -7583,6 +7601,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1485388767615" />
+    <option name="LAST_TIME_CHECKED" value="1485534842990" />
   </component>
 </application>
