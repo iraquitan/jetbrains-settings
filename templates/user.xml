@@ -181,8 +181,8 @@
     <variable name="module" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="OTHER" value="true" />
       <option name="XML" value="false" />
+      <option name="OTHER" value="true" />
       <option name="JSON" value="false" />
       <option name="HTML" value="false" />
     </context>
