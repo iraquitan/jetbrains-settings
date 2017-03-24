@@ -181,10 +181,10 @@
     <variable name="module" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="HTML" value="false" />
+      <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
       <option name="XML" value="false" />
-      <option name="JSON" value="false" />
-      <option name="HTML" value="false" />
     </context>
   </template>
   <template name="cmheader" value="# #############################################################################&#10;# ################################# $header$ #####################################&#10;# #############################################################################&#10;$END$" description="Comment Header" toReformat="false" toShortenFQNames="true">
