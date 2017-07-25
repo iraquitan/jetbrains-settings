@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
-  <tool name="Pylint" description="A Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="Pylint" description="A Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="/usr/local/var/pyenv/versions/py-data-struct/bin/pylint" />
+      <option name="COMMAND" value="/usr/local/var/pyenv/versions/bcitv/bin/pylint" />
       <option name="PARAMETERS" value="$FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
