@@ -78,6 +78,10 @@
           <option name="url" value="https://iraquitan@bitbucket.org/MarceloMaia/coupon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/iraquitan/formal-languages-ufpa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Developer" />
