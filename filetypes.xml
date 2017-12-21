@@ -5,12 +5,12 @@
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="ignore_global" type="Git file" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="secret-envs" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".pypirc" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping ext="mat" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
